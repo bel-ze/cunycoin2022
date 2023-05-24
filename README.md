@@ -16,6 +16,7 @@ We constructed CUNY Coin using a web application and SQL for student registratio
 ![image](https://github.com/bel-ze/cunycoin2022/assets/104162480/4c634fdc-f24c-4035-b249-3751abf3b7dc)
 ![image](https://github.com/bel-ze/cunycoin2022/assets/104162480/9cd0189e-6302-4644-adcc-07cb745fda9b)
 
+![Uploading image.png…]()
 
 
 ## Challenges we ran into
