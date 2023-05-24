@@ -31,7 +31,7 @@ Engaging with cryptocurrencies and integrating them into real-world applications
 ## What's next for CUNY Coin
 Upon achieving success, our next step involves expanding the usage of CUNY Coin to SUNY, which encompasses 65 campuses. Additionally, we envision the potential for out-of-state public college systems to adopt a similar model to CUNY Coin. Notably, a handful of schools such as UPenn, King's College, and UC Berkeley already accept cryptocurrency as a form of payment. By extending CUNY Coin to a diverse range of campuses, we aim to revolutionize the acceptance of cryptocurrency within the education sector.
 
-
+## 
 Copyright (c) 2022 Crypto Creators
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
