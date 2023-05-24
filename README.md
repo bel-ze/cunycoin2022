@@ -6,6 +6,7 @@ Our motivation for taking on this challenge stems from witnessing the financial 
 
 ## What it does
 CUNY Coin enables students and faculty to access, purchase, and track their own CUNY coin. Additionally, it provides the ability to monitor the prices of other cryptocurrencies. Students and faculty can utilize the cryptocurrency to purchase school supplies, metro cards, meals, and cover other educational expenses.
+
 ![image](https://github.com/bel-ze/cunycoin2022/assets/104162480/4986e0b0-f744-4850-8107-3c834799bb40)
 
 
